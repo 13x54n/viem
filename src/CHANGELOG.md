@@ -1,5 +1,11 @@
 # viem
 
+## 2.18.9
+
+### Patch Changes
+
+- [#2581](https://github.com/wevm/viem/pull/2581) [`837507f`](https://github.com/wevm/viem/commit/837507f6dcc41e928419b2377e00913fc75033f9) Thanks [@cygaar](https://github.com/cygaar)! - Added ZKsync config to Abstract Testnet chain.
+
 ## 2.18.8
 
 ### Patch Changes
